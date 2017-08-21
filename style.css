@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 15px;
+  letter-spacing: 0.2em;
+  font-weight: 200;
+}
+
+#first {
+  color: white;
+  background-color: #C26868;
+  padding-top: 25px;
+  padding-bottom: 50px;
+}
+
+#second {
+  color: white;
+  background-color: #7094db;
+  padding-top: 25px;
+  padding-bottom: 50px;
+}
+
+#third {
+  color: white;
+  background-color: #339966;
+  padding-top: 25px;
+  padding-bottom: 50px;
+}
